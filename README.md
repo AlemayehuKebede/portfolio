@@ -1,0 +1,1 @@
+This is my personal portfolio website showcasing my skills, projects, and experience as a Frontend Developer. The portfolio is designed to highlight modern web development practices with a clean, responsive, and user-friendly interface.
